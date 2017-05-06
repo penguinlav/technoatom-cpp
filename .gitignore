@@ -66,8 +66,15 @@ Makefile*
 # QtCtreator CMake
 CMakeLists.txt.user*
 
+foreveralone/Stack/docs
+IlluminatiConfirmed/Containers/docs
+IlluminatiConfirmed/CPU/dumps
+*.log
 
-lectures/
-comments.txt
-task1/docs/html/
-task1/docs/latex/
+*.L13924
+
+*.bin
+
+*.X13924
+
+IlluminatiConfirmed/CPU/savings/save\.memory\.txt
